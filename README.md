@@ -10,13 +10,13 @@ Sử dụng **ADO.NET** để tối truy vấn và hiểu sâu về cách thức
 ## 🚀 Tính Năng Cốt Lõi
 
 ### 🔹 Quản Lý Nghiệp Vụ
-* [cite_start]**Quản lý Sản phẩm:** Theo dõi chi tiết thông tin giày (size, màu sắc, thương hiệu, giá bán). [cite: 57, 60]
-* [cite_start]**Quản lý Nhập hàng:** Lập phiếu nhập, cập nhật số lượng tồn kho theo thời gian thực. [cite: 55]
-* [cite_start]**Quy trình Bán hàng:** Giao diện lập hóa đơn trực quan, tự động tính tổng tiền và chiết khấu. [cite: 53]
+**Quản lý Sản phẩm:** Theo dõi chi tiết thông tin giày (size, màu sắc, thương hiệu, giá bán). [cite: 57, 60]
+**Quản lý Nhập hàng:** Lập phiếu nhập, cập nhật số lượng tồn kho theo thời gian thực. [cite: 55]
+**Quy trình Bán hàng:** Giao diện lập hóa đơn trực quan, tự động tính tổng tiền và chiết khấu. [cite: 53]
 
 ### 🔹 Quản Trị & Thống Kê
-* [cite_start]**Báo cáo Doanh thu:** Tổng hợp dữ liệu bán hàng theo ngày, tháng, năm thông qua các câu lệnh SQL phức tạp. [cite: 61]
-* [cite_start]**Quản lý Khách hàng & Nhân viên:** Lưu trữ thông tin, phân quyền truy cập hệ thống. [cite: 57, 60]
+**Báo cáo Doanh thu:** Tổng hợp dữ liệu bán hàng theo ngày, tháng, năm thông qua các câu lệnh SQL phức tạp. [cite: 61]
+**Quản lý Khách hàng & Nhân viên:** Lưu trữ thông tin, phân quyền truy cập hệ thống. [cite: 57, 60]
 
 ---
 
